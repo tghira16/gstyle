@@ -15,3 +15,6 @@ hold off
 
 ## Documentation
 Coming soon
+
+
+## MIT License
