@@ -1,4 +1,4 @@
-# This code sets all the boring parameters.
+# GStyle
 
 # Sample Plot
 
